@@ -12,8 +12,8 @@ application](https://github.com/clearf/WDI_Summer_Public/blob/master/assignments
 This will not be tied to any code, but it will be a similar representation of
 the output.
 
-* Have a front page the shelter (shelter.html)
-  * List two clients on the main page, with links to the clients (client1.html, client2.html)
+* Have a front page the HappiTails (index.html), with a title, and subltitle
+  * *List* two clients on the main page, with links to the clients (client1.html, client2.html)
 
   * The link to those clients should connect to a separate page with their name, age, gender, 
     and the number of pets they have. 
