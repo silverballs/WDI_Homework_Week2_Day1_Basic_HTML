@@ -5,34 +5,20 @@ WDI_Homework_Week2_Day1_Basic_HTML
 [![How to fork this
 repo](https://github-images.s3.amazonaws.com/help/Bootcamp-Fork.png)](../../fork)
 
-To get started, [fork this repo](../../fork) to the github account of ONE of your group
-memebers to create a new repository for your group (We'll call this person the
-*repository owner*). 
+To get started, [fork this repo](../../fork) to your INDIVIDUAL github account. 
 
+** Forking ** 
 
-The repository owner should then [add the other group members as
-github collaborators](https://help.github.com/articles/how-do-i-add-a-collaborator). 
+* Everyone needs to fork this repository to your own github usernmae, and commit
+there. **You will all be coding this assignment on your own** 
 
-Each person in the group should clone the repo to their local machine
+* Commit frequently with good commit messages. 
 
-```
-# Get the URL from the repository owner's repo as usual. It will be of the form
-git clone git@github.com:<username>/<assignment>.git 
-# Clones your fork of the repository into the current directory in terminal
-```
-
-```
-# pull, work, commit, and push to the repository as per the normal github
-# workflow
-git add .
-git commit -m "Description of change made"
-git push origin master
-```
+* When you are ready to turn in, submit a pull request
 
 #### Submitting
-* To submit the homework, make your final commits, then have the repository
-"owner" issue a [Pull
-Request](https://help.github.com/articles/using-pull-requests) within github.
+* To submit the homework, make your final commits, then issue a 
+[Pull Request](https://help.github.com/articles/using-pull-requests) within github.
 This will send us your code. Include a reasonable comment describing what you're
 doing. 
 
