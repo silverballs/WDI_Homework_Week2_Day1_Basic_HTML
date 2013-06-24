@@ -1,4 +1,4 @@
-## GA Stock Exchange Lab (Homework)
+## GA HTML Homework
 
 **Objectives:**
 
