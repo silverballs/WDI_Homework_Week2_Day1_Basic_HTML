@@ -1,4 +1,4 @@
-WDI_Homework Templates
+WDI_Homework_Week2_Day1_Basic_HTML
 =================
 
 #### How To Use Git For Your Homework
